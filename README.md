@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Harsh Bhargava and I'm a HARSH, from HARIDWAR</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="![FB_IMG_1707201047825](https://github.com/Harshba/Harshba/assets/94196580/474a0824-c4d1-4590-ba3b-b7b15647170d)
+"  />
 
 ###
 
