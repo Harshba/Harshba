@@ -1,18 +1,14 @@
 <h2 align="left">Hi 👋! My name is Harsh Bhargava and I'm a HARSH, from HARIDWAR</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <img align="right" height="150" src="![FB_IMG_1707201047825](https://github.com/Harshba/Harshba/assets/94196580/474a0824-c4d1-4590-ba3b-b7b15647170d)
 "  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -46,13 +41,12 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Harshba/Harshba/output/snake.svg" alt="Snake animation" />
 
-###
 
 <!--
 **Harshba/Harshba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
