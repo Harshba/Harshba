@@ -114,6 +114,7 @@
 <img src="github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Harshba&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://harshjmit.netlify.app)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
