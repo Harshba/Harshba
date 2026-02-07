@@ -1,4 +1,4 @@
-I'm Harsh Bhargava
+# 💫 About Me:
 👨‍💻 I’m currently working on Full-Stack & Salesforce Development  <br>🤝 I’m looking to collaborate on Open Source and real-world projects  <br>🛠️ I’m looking for help with performance optimization & best practices  <br>🌱 I’m currently learning Advanced Apex, LWC, and Backend Architecture  <br>💬 Ask me about DSA, Java, JavaScript, MERN, Salesforce  <br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄<br>
 
 
@@ -11,6 +11,12 @@ I'm Harsh Bhargava
 ![](https://github-readme-stats.vercel.app/api?username=Harshba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harshba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshba&icon=0&color=0)](https://visitcount.itsvg.in)
