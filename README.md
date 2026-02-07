@@ -9,7 +9,7 @@
  
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="github-contribution-grid-snake-dark.svg">
 </p>
 
 # 💻 Tech Stack:
@@ -91,7 +91,7 @@
 ---
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="github-contribution-grid-snake-dark.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Harshba&icon=0&color=0)](https://visitcount.itsvg.in)
