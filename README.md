@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Harsh Bhargava:
 👨‍💻 I’m currently working on Full-Stack & Salesforce Development  <br>🤝 I’m looking to collaborate on Open Source and real-world projects  <br>🛠️ I’m looking for help with performance optimization & best practices  <br>🌱 I’m currently learning Advanced Apex, LWC, and Backend Architecture  <br>💬 Ask me about DSA, Java, JavaScript, MERN, Salesforce  <br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄<br>
 
 
