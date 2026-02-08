@@ -71,8 +71,6 @@
 ![API](https://img.shields.io/badge/API-000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 
 #### Web Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
