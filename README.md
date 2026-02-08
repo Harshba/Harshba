@@ -42,6 +42,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
+<img align="right" width=310px alt="Unicorn" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
+
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
@@ -73,6 +75,8 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+
+<img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/6qGLkyM8rqgAAAAM/hacking-man.gif"/>
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
