@@ -56,7 +56,6 @@
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
-![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)&nbsp; <img align="right" width=310px height = 500px alt="Unicorn" src="https://media.tenor.com/eR21d4Vzr70AAAAM/spectro-falls-hacker.gif"/><br>
