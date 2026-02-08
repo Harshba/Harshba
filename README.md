@@ -35,7 +35,7 @@
 <img src="github-contribution-grid-snake-dark.svg">
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 #### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
