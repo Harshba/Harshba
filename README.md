@@ -107,7 +107,6 @@
 </> We Diagnose. We Repair. You Drive.
 
 ---
----
 <p align="center">
 <img src="github-contribution-grid-snake-dark.svg">
 </p>
