@@ -38,38 +38,34 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-<img align="right" width=310px height= 510px alt="Unicorn" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/> </br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;<img align="right" width=310px alt="Unicorn" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/> <br>
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;  
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp; 
 
 #### Design/Visual Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
 ![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)&nbsp; <img align="right" width=310px height = 500px alt="Unicorn" src="https://media.tenor.com/eR21d4Vzr70AAAAM/spectro-falls-hacker.gif"/><br>
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
-
-<img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/6qGLkyM8rqgAAAAM/hacking-man.gif"/></br>
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
