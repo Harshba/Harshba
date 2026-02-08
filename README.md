@@ -40,7 +40,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
-<img align="right" width=310px length= 510px alt="Unicorn" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
+<img align="right" width=310px height= 510px alt="Unicorn" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/> </br>
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
@@ -69,7 +69,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/6qGLkyM8rqgAAAAM/hacking-man.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/6qGLkyM8rqgAAAAM/hacking-man.gif"/></br>
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
