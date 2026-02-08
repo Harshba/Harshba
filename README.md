@@ -1,7 +1,7 @@
 <a href=""><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"></a>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1 align="center"> Hi there, I'm <a href="https://github.com/harshba">Harsh Bhargava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></br> 
+<h1 align="center"> Hey, I'm <a href="https://github.com/harshba">Harsh Bhargava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></br> 
 </h1>
 <p align="center">I love creating new things and 🤝 I’m looking to collaborate on Open Source and real-world projects  ⚡</p>
 <p align="center">🛠️ I’m looking for help with performance optimization & best practices  <br>🌱 I’m currently learning Advanced Apex, LWC, and Backend Architecture  <br>💬 Ask me about DSA, Java, JavaScript, MERN, Salesforce  <br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄</p>
