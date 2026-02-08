@@ -50,7 +50,6 @@
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp; 
 
