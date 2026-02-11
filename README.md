@@ -1,5 +1,4 @@
-<a href=""><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" lenght="100%"></a>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1 align="center"> Hey, I'm <a href="https://github.com/harshba">Harsh Bhargava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></br> 
 </h1>
 <p align="center">I love creating new things and 🤝 I’m looking to collaborate on Open Source and real-world projects  ⚡</p>
@@ -28,7 +27,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<a href=""><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" lenght="100%"></a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
 <img src="github-contribution-grid-snake-dark.svg">
 </p>
