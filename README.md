@@ -104,6 +104,14 @@
 [SharmaTours&Travels](https://stt.sharmatoursandtravels.com/) ,
 </> Your One-Stop Travel Partner for Cars, Bikes, Hotels, Rafting, Bungee Jumping & More!.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshba&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshba&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshba&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harshba&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 <p align="center">
 <img src="github-contribution-grid-snake-dark.svg">
@@ -112,5 +120,7 @@
 [![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://harshjmit.netlify.app)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 ### Thanks for Visiting my GitHub Profile!
+
+[![](https://visitcount.itsvg.in/api?id=harshba&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
