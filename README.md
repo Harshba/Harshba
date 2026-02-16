@@ -66,7 +66,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp; <img align="right" width=500px height = 500px alt="Unicorn" src="https://leetcard.jacoblin.cool/H-A-R-S-H?ext=heatmap"/><br>
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp; <img align="right" width=400px height = 400px alt="Unicorn" src="https://leetcard.jacoblin.cool/H-A-R-S-H?ext=heatmap"/><br>
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
