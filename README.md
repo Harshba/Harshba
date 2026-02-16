@@ -66,12 +66,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp; <img align="right" width=400px height = 400px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR3dmR1a3RvYWUxdXZoNGduMTN5d2prMWJvNTc3YXFmc3JhZTE1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.webp"/><br>
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp; 
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![API](https://img.shields.io/badge/API-000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+![API](https://img.shields.io/badge/API-000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp; <img align="right" width=310px height = 400px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR3dmR1a3RvYWUxdXZoNGduMTN5d2prMWJvNTc3YXFmc3JhZTE1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.webp"/><br>
+
 
 #### Web Hosting
 ![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
