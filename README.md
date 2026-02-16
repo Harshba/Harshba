@@ -110,8 +110,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=harshba&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshba&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshba&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+### 🔝 LeetCode Profile 
+![](https://leetcard.jacoblin.cool/H-A-R-S-H?ext=heatmap)
 
 ---
 <p align="center">
