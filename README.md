@@ -60,13 +60,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)&nbsp; <img align="right" width=310px height = 500px alt="Unicorn" src="https://media.tenor.com/eR21d4Vzr70AAAAM/spectro-falls-hacker.gif"/><br>
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)&nbsp; 
 
-#### Database/State
+#### Database/State 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp; <img align="right" width=500px height = 500px alt="Unicorn" src="https://leetcard.jacoblin.cool/H-A-R-S-H?ext=heatmap"/><br>
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -110,7 +110,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshba&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshba&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harshba&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 <p align="center">
