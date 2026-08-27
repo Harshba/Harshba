@@ -102,7 +102,7 @@
 </> We Diagnose. We Repair. You Drive.
 
 ### <img src="https://stt.sharmatoursandtravels.com/" />  SharmaTours&Travels 
-[SharmaTours&Travels](https://stt.sharmatoursandtravels.com/) ,
+[SharmaTours&Travels](https://www.sharmatoursandtravel.com/) ,
 </> Your One-Stop Travel Partner for Cars, Bikes, Hotels, Rafting, Bungee Jumping & More!.
 
 # 📊 GitHub Stats:
