@@ -89,8 +89,8 @@
 
 ## Creation 👨‍💻
 
-### <img src="ttps://harshjmit.netlify.app" />  Portfolio 
-[Harsh Bhargava - Portfolio](https://harshjmit.netlify.app) ,
+### <img src="https://craftwebstudios.in" />  Craft Web Studios 
+[Craftweb Studios - Website](https://craftwebstudios.in) ,
 </> and Crafted with 💛 by Harsh Bhargava
 
 ### <img src="https://technotes.sharmatoursandtravels.com/" />  Technotes(Your Placement App) 
